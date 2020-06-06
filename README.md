@@ -74,6 +74,6 @@ Check out the [contributing](https://github.com/patrick-silva/clone-picpay/blob/
 ## :closed_book: License
 
 Released in 2020.
-This project is under the [MIT license](https://github.com/patrick-silva/clone-picpay/master/LICENSE).
+This project is under the [MIT license](https://github.com/patrick-silva/clone-picpay/blob/master/LICENSE).
 
 Made by [Patrick Silva](https://github.com/patrick-silva) 🚀
