@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "clone-picpay",
+    "name": "Clone PicPay",
     "slug": "clone-picpay",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,7 +12,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#10C86E"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,7 +21,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": false
     }
   }
 }
